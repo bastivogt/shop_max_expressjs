@@ -16,4 +16,14 @@ const AdminController = {
     }
 }
 
+/*
+    index(),
+    show(id),
+    create(),
+    store(),
+    edit(id),
+    update(id),
+    destroy(id)
+*/
+
 module.exports = AdminController;
